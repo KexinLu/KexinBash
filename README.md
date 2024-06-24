@@ -1,2 +1,2 @@
 # KexinBash
-Bash scripts I use
+Useful  bash scripts
